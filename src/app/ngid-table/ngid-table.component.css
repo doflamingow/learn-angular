@@ -1,0 +1,6 @@
+div.app-ngid-table{
+    table.table thead{
+        border-top: 0.2rem solid #007bff;
+        border-bottom: 0.2rem solid #007bff;
+    }
+}
