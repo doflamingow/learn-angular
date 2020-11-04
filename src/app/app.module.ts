@@ -1,8 +1,8 @@
-import { NgidTableModule } from './ngid-table/ngid-table.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import {NzButtonModule} from "ng-zorro-antd/button";
 
 @NgModule({
   declarations: [
@@ -10,8 +10,8 @@ import { AppComponent } from './app.component';
 
   ],
   imports: [
-    NgidTableModule,
-    BrowserModule
+    BrowserModule,
+    NzButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

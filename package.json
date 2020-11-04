@@ -19,8 +19,12 @@
     "@angular/platform-browser": "~10.1.6",
     "@angular/platform-browser-dynamic": "~10.1.6",
     "@angular/router": "~10.1.6",
+    "@fortawesome/angular-fontawesome": "^0.7.0",
+    "@nguniversal/express-engine": "^10.1.0",
     "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
     "materialize-css": "^1.0.0-rc.2",
+    "ng-zorro-antd": "^10.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
