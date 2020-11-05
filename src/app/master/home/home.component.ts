@@ -14,10 +14,10 @@ export class HomeComponent implements OnInit {
   }
 
   listBook(){
-    this.router.navigate([bogiok]);
+    this.router.navigate(['book']);
   }
 
   formBook(){
-    this.router.navigate([book/form]);
+    this.router.navigate(['book/form']);
   }
 }
