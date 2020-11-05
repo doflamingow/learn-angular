@@ -5,5 +5,5 @@ export class Books {
   publisher: string;
   year: number;
   isbn : number;
-  price: float;
+  price: string;;
 }

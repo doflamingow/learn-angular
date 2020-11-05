@@ -8,5 +8,5 @@ import { NzButtonModule } from 'ng-zorro-antd/button';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'helloworld';
+  title = 'Books Store';
 }
